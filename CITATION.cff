@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Design and optimization of a blended wing body UAV using AI-driven surrogate modeling and CFD analysis"
+message: "If you use or discuss this work, please cite the official journal article."
+type: article
+authors:
+  - family-names: Naseem
+    given-names: Muhammad Shoaib
+  - family-names: Shah
+    given-names: Muhammad Uns Haider
+  - family-names: Hassan
+    given-names: Muhammad Nasih Ul
+  - family-names: Zubair
+    given-names: Rimsha
+  - family-names: Afzal
+    given-names: Ayman
+  - family-names: Afzal
+    given-names: Shakeel
+  - family-names: Naseem
+    given-names: Mujahid
+doi: 10.1177/09544100261447561
+journal: "Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering"
+publisher: "SAGE"
+year: 2026
