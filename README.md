@@ -464,10 +464,7 @@ Published article authors:
 - Muhammad Shoaib Naseem
 - Muhammad Uns Haider Shah
 - Muhammad Nasih Ul Hassan
-- Rimsha Zubair
-- Ayman Afzal
-- Shakeel Afzal
-- Mujahid Naseem
+- and others
 
 ---
 
@@ -484,7 +481,7 @@ GitHub: [uns-haider96](https://github.com/uns-haider96)
 
 This repository is an academic and research portfolio. It is intended to document the project methodology, engineering workflow, visual results, publication record, and prototype development process.
 
-Publisher-formatted journal papers, journal manuscript files, and conference paper PDFs are not uploaded unless explicit permission and copyright clearance are available. For the official journal article, please refer to the DOI link.
+For the official journal article, please refer to the DOI link.
 
 ---
 
